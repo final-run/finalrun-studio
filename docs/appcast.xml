@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Finalrun Studio</title>
+        <description>Most recent updates to Finalrun Studio</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.25</title>
+            <!-- For macOS -->
+            <sparkle:version>0.1.25</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+            <description><![CDATA[
+• Added auto-update functionality
+<br>
+• Improved application stability
+<br>
+• Fixed UI responsiveness issues
+<br>
+• Updated core dependencies
+]]></description>
+            <pubDate>Sun, 30 Dec 2023 12:00:00 +0800</pubDate>
+            <enclosure url="0.1.25/Finalrun-0.1.25-macos.zip"
+                sparkle:edSignature="ZBV8uoIAbcOlnjgtfSh4VxbGAMzglEzLIBYbby2jDXoDaOJVYtprty+s3Fc4Z7tvi6uplD6OOtYyPxsCSDWyBQ=="
+                sparkle:os="macos"
+                length="83768260"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
