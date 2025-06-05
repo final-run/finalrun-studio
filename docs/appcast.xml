@@ -28,8 +28,8 @@
             <description>
                 <![CDATA[• Testing auto-update]]>
             </description>
-            <pubDate>Thu, 05 Jun 2025 15:41:57 +0000</pubDate>
-            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.23/FinalRun-0.1.23-macos.zip" sparkle:edSignature="qmgIxXe+26kEASnKnzZJhuSeEEH4k/sUrcNb+V/JrtVmQTb+gBOI+/8wpmNzf7OzBZY1LBGkCAxYo4ASIFUvBg==" sparkle:os="macos" length="83818446" type="application/octet-stream"/>
+            <pubDate>Thu, 05 Jun 2025 16:39:44 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.23/FinalRun-0.1.23-macos.zip" sparkle:edSignature="vswk1bsWuHWQBDBhU/0pWeC/ODCsHQ+Oj5WVt1xzkr1Mbt2p5QWla3A+tRPffB47YOU252y+LVQqh6RHFtZICw==" sparkle:os="macos" length="83818952" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
