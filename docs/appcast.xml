@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.25</title>
+            <sparkle:version>0.1.25</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+            <description>
+                <![CDATA[• AI Support in Regex and JSON Path<br>
+• Dataset Support<br>
+• Repeat Steps Support<br>]]>
+            </description>
+            <pubDate>Thu, 05 Jun 2025 19:57:59 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.25/FinalRun-0.1.25-macos.zip" sparkle:edSignature="xwSuPJUkixuSB4VZxgbLs46EnmJ4GFN4ifte8WouT6xsqLArBNpua7jI7lQAk5FoUFIDeaTDr/tOhKIcssPgDw==" sparkle:os="macos" length="83825776" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.24</title>
             <sparkle:version>0.1.24</sparkle:version>
             <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
