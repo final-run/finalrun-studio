@@ -5,21 +5,14 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.22</title>
-            <sparkle:version>0.1.22</sparkle:version>
-            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <title>Version 0.1.23</title>
+            <sparkle:version>0.1.23</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
             <description>
-                <![CDATA[• Complete desktop app automation system implemented<br>
-• Added notarization support for macOS distribution<br>
-• Integrated auto-updater functionality with EdDSA signatures<br>
-• Improved release process with GitHub integration
-• Enhanced security with proper code signing<br>
-• Production environment configuration support<br>
-• Automated appcast.xml generation and deployment<br>
-• Bug fixes and performance improvements]]>
+                <![CDATA[• Testing auto-update]]>
             </description>
-            <pubDate>Thu, 05 Jun 2025 14:41:16 +0000</pubDate>
-            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.22/FinalRun-0.1.22-macos.zip" sparkle:edSignature="Dq5eoYCaA/jVweR8s12Bilw/keX1iVWpfe0ybr3EJpV54xOXNaKxbev+T2pKumjg+dFRphNlWyv8h+/r9ZRsAg==" sparkle:os="macos" length="84081455" type="application/octet-stream"/>
+            <pubDate>Thu, 05 Jun 2025 15:41:57 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.23/FinalRun-0.1.23-macos.zip" sparkle:edSignature="qmgIxXe+26kEASnKnzZJhuSeEEH4k/sUrcNb+V/JrtVmQTb+gBOI+/8wpmNzf7OzBZY1LBGkCAxYo4ASIFUvBg==" sparkle:os="macos" length="83818446" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
