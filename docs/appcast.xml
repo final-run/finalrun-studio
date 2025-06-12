@@ -5,6 +5,24 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.27</title>
+            <sparkle:version>0.1.27</sparkle:version>
+            <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Enhanced Streaming in TestEditor on Low Network<br>
+<br>
+<b>Fixes:</b><br>
+• Intermittent device connection issue<br>
+• Device connection in Oneplus phones<br>
+• Launch app step fix with permissions<br>
+• File picker fixes<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 12 Jun 2025 12:17:59 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.27/FinalRun-0.1.27-macos.zip" sparkle:edSignature="yTvceUa8xFC+2BXLlmfoqT/yS+ywhKmnkwo78reMfkKkStEMngWATvv+1xo6bXNss7udNgVEjBWOJN9AS/D6Dg==" sparkle:os="macos" length="83865522" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.26</title>
             <sparkle:version>0.1.26</sparkle:version>
             <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
