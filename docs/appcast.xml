@@ -5,6 +5,29 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.28</title>
+            <sparkle:version>0.1.28</sparkle:version>
+            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>New Feature:</b><br>
+• Group Test cases by folder<br>
+• Added support for more UI element types like radio, checkbox and editable fields<br>
+<br>
+<b>Improvements:</b><br>
+• AI Regex generation for assertion with invalid queries <br>
+• AI Regex generation for extraction with invalid queries <br>
+<br>
+<b>Fixes:</b><br>
+• Device getting locked after TestRun in local<br>
+• Add new test step pointer getting lost<br>
+• <br>
+<br>
+<br>]]>
+            </description>
+            <pubDate>Mon, 16 Jun 2025 14:44:34 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.28/FinalRun-0.1.28-macos.zip" sparkle:edSignature="2k0LRtUwt/MxziFv5fdBnFGBcSVncaPfjry1m0sTrEgz0BNBOfaxltKdBJijL+BTLtjUYB8raZTh9GKlRoYcCQ==" sparkle:os="macos" length="83962219" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.27</title>
             <sparkle:version>0.1.27</sparkle:version>
             <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
