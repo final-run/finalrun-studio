@@ -5,6 +5,20 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.29</title>
+            <sparkle:version>0.1.29</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Fixes:</b><br>
+• TestSuite Configuration not showing after selecting test cases<br>
+• Add steps after API test steps<br>
+• <br>
+<br>]]>
+            </description>
+            <pubDate>Tue, 17 Jun 2025 10:51:29 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.29/FinalRun-0.1.29-macos.zip" sparkle:edSignature="Dr+Tm81RJ6hvfUO4j9F04JIZWtuv2joCFldfxFosVvCIsFC0VL5in6rxwqp7wB6fUT5QrocGbTW2Qv7Eec5sDw==" sparkle:os="macos" length="83963175" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.28</title>
             <sparkle:version>0.1.28</sparkle:version>
             <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
