@@ -5,6 +5,21 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.30</title>
+            <sparkle:version>0.1.30</sparkle:version>
+            <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Test Editor Modes for Running and Editing Test case<br>
+<br>
+<b>Improvement:</b><br>
+• Local device connection stability<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 19 Jun 2025 10:12:32 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.30/FinalRun-0.1.30-macos.zip" sparkle:edSignature="AkCrwTufhhmxZyypXSKcVtKzkj7L8+ChQ4gwThzNoozx1WTRa4Uw2DeopB+5yxy4EC5PKtDcscQiHaWOaq5DAw==" sparkle:os="macos" length="83997952" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.29</title>
             <sparkle:version>0.1.29</sparkle:version>
             <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
