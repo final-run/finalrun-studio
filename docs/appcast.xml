@@ -5,6 +5,19 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.31</title>
+            <sparkle:version>0.1.31</sparkle:version>
+            <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Fixes:</b><br>
+• Refresh remote devices<br>
+• Invalid state in Conditional statement<br>
+<br>]]>
+            </description>
+            <pubDate>Fri, 20 Jun 2025 10:47:56 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.31/FinalRun-0.1.31-macos.zip" sparkle:edSignature="RsX3IRFFrvcR6kZN/pfnjEDizUE64Zkff5NH+SYCqQxpJ38U1m8x8aUui6C84UO/S4Owy+nzTZ3Gk56suBqQAw==" sparkle:os="macos" length="84001355" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.30</title>
             <sparkle:version>0.1.30</sparkle:version>
             <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
