@@ -5,6 +5,21 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.32</title>
+            <sparkle:version>0.1.32</sparkle:version>
+            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Generate test steps with AI - Beta<br>
+<br>
+<b>Improvements:</b><br>
+• Improved Drag and drop functionalities of Test Steps<br>
+<br>]]>
+            </description>
+            <pubDate>Tue, 01 Jul 2025 14:59:05 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.32/FinalRun-0.1.32-macos.zip" sparkle:edSignature="Ly34TcLc++pwJ+DYXOLnaTEAYhsHlflJmq+h81M68oKaNnzzvlMcRjv7rV6xiB3Xrxn1sZiJKssR+7LMfWRfAQ==" sparkle:os="macos" length="129621175" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.31</title>
             <sparkle:version>0.1.31</sparkle:version>
             <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
