@@ -5,19 +5,46 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.34</title>
+            <sparkle:version>0.1.34</sparkle:version>
+            <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• IOS support<br>
+<br>]]>
+            </description>
+            <pubDate>Sun, 06 Jul 2025 22:08:04 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.34/FinalRun-0.1.34-macos.zip" sparkle:edSignature="EnoHJ4y+GRsnCw5MH72ttY0zAxE/VVr5mlgfsGJI+N5pQqlA1/AWXigpae6Y40WQCu5v6/OFira5EN70uzB8Ag==" sparkle:os="macos" length="84575648" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.33</title>
+            <sparkle:version>0.1.33</sparkle:version>
+            <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Test Step creation with AI - Beta<br>
+<br>
+<b>Improvements:</b><br>
+• Drag and Drop<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 03 Jul 2025 11:26:07 +0000</pubDate>
+            <enclosure url="https://github.com/arnoldlaishram/fr-studio-test/releases/download/v0.1.33/FinalRun-0.1.33-macos.zip" sparkle:edSignature="RN+ydHpN2Ll/GPF9Nx7++6Pl4F0lN9xbesVJUT6/lcJV36rkm7Gy7LbVmt+w7byG2KlpO03TA4CTu6U6FSyhCA==" sparkle:os="macos" length="84326257" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.32</title>
             <sparkle:version>0.1.32</sparkle:version>
             <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
             <description>
                 <![CDATA[<b>Feature:</b><br>
-• Generate test steps with AI - Beta<br>
+• Test Step creation with AI - Beta<br>
 <br>
 <b>Improvements:</b><br>
-• Improved Drag and drop functionalities of Test Steps<br>
+• Drag and Drop<br>
 <br>]]>
             </description>
-            <pubDate>Tue, 01 Jul 2025 14:59:05 +0000</pubDate>
-            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.32/FinalRun-0.1.32-macos.zip" sparkle:edSignature="Ly34TcLc++pwJ+DYXOLnaTEAYhsHlflJmq+h81M68oKaNnzzvlMcRjv7rV6xiB3Xrxn1sZiJKssR+7LMfWRfAQ==" sparkle:os="macos" length="129621175" type="application/octet-stream"/>
+            <pubDate>Tue, 01 Jul 2025 00:37:47 +0000</pubDate>
+            <enclosure url="https://github.com/arnoldlaishram/fr-studio-test/releases/download/v0.1.32/FinalRun-0.1.32-macos.zip" sparkle:edSignature="DkAks2bS2iXvvE0jPsUDNAPiQlzBwvFOuRaMYjcnpvBmVYEtkOpkqXqRTi0oxjg4PopXiLL9cJf6QvFeScGUCA==" sparkle:os="macos" length="129477227" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 0.1.31</title>
