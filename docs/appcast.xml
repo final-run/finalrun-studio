@@ -5,6 +5,22 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.35</title>
+            <sparkle:version>0.1.35</sparkle:version>
+            <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Clear Text support before entering any text<br>
+• Test case search functionality in TestSuite Editor<br>
+<br>
+<b>Improvements:</b><br>
+• Identifier with containsDescendants now picks the element with smallest bounds<br>
+<br>]]>
+            </description>
+            <pubDate>Sun, 27 Jul 2025 17:54:58 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.35/FinalRun-0.1.35-macos.zip" sparkle:edSignature="epaJSmf6ByHZ5g57EiIYeK23cgBXT1fK34TdjmHNchGzXxqDT9heLe2WjWJZWbJL+Q2PXQRqe4XhZxyBHlwcAg==" sparkle:os="macos" length="84617749" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.34</title>
             <sparkle:version>0.1.34</sparkle:version>
             <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
