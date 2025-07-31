@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.37</title>
+            <sparkle:version>0.1.37</sparkle:version>
+            <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Grant the permissions before launching app<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 31 Jul 2025 17:33:12 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.37/FinalRun-0.1.37-macos.zip" sparkle:edSignature="D66+95oeKuZZ+Q6h63GEzUEWl6EEtHnHSNQ1y5F3ktLm1HURfyl5AfPvZ2bP1s+ba94txb05XVvw8QUavi7YCg==" sparkle:os="macos" length="84617591" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.36</title>
             <sparkle:version>0.1.36</sparkle:version>
             <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
