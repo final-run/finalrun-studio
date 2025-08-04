@@ -5,6 +5,20 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.38</title>
+            <sparkle:version>0.1.38</sparkle:version>
+            <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Video to Test - Beta<br>
+• User flow to Test steps<br>
+• CI Integrations support<br>
+<br>]]>
+            </description>
+            <pubDate>Mon, 04 Aug 2025 23:59:47 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.38/FinalRun-0.1.38-macos.zip" sparkle:edSignature="brpRz5KxY4MZTe5/yNF//RaqKXoVrMKbUKYiXUdvnJOnvcrD4kuTJY7PrY4v5zNCTZ+1zXw98qK9tx00S35CDQ==" sparkle:os="macos" length="85477601" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.37</title>
             <sparkle:version>0.1.37</sparkle:version>
             <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
