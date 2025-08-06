@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.40</title>
+            <sparkle:version>0.1.40</sparkle:version>
+            <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvement:</b><br>
+• AI test steps generation UX changes<br>
+<br>]]>
+            </description>
+            <pubDate>Wed, 06 Aug 2025 16:12:51 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.40/FinalRun-0.1.40-macos.zip" sparkle:edSignature="fmW0GDc3LFoGz191JBBGZ44FJ/weaSd2jdxbKZT315nyk+iJvzpubAfkP6GufC1JQct+HROhMYkLswC06qzWBw==" sparkle:os="macos" length="85489985" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.39</title>
             <sparkle:version>0.1.39</sparkle:version>
             <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
