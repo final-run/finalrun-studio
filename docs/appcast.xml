@@ -5,6 +5,25 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.42</title>
+            <sparkle:version>0.1.42</sparkle:version>
+            <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Extract json variables from UI <br>
+<br>
+<b>Improvement:</b><br>
+• Variable support in Chat UI<br>
+• Scroll duration defaults to 500ms<br>
+<br>
+<b>Fix:</b><br>
+• Finalrun app crash when selecting app from device in Test creation<br>
+<br>]]>
+            </description>
+            <pubDate>Mon, 11 Aug 2025 16:55:04 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.42/FinalRun-0.1.42-macos.zip" sparkle:edSignature="4VSEzORf9N75mpFrVu2Pb3zraRW55bstb/4o7bI9bmd9/UanmqcNp7sh9tDhTjwNmik9wuRIsPJPH8HSt+EWDg==" sparkle:os="macos" length="86604317" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.41</title>
             <sparkle:version>0.1.41</sparkle:version>
             <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
