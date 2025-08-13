@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.43</title>
+            <sparkle:version>0.1.43</sparkle:version>
+            <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvement:</b><br>
+• Enter text support for flutter apps<br>
+<br>]]>
+            </description>
+            <pubDate>Wed, 13 Aug 2025 09:31:29 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.43/FinalRun-0.1.43-macos.zip" sparkle:edSignature="04pi72s4GAjutMz0PrhDM3vKsZHDlQExVzCu8JkW1fzZPaQpk71cMM2cJWhdX0PbUObkmPaQsuAOvA9S9u7xDw==" sparkle:os="macos" length="86604882" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.42</title>
             <sparkle:version>0.1.42</sparkle:version>
             <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
