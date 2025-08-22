@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.45</title>
+            <sparkle:version>0.1.45</sparkle:version>
+            <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvement:</b><br>
+• Fix first step as connect to device<br>
+<br>]]>
+            </description>
+            <pubDate>Fri, 22 Aug 2025 11:42:55 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.45/FinalRun-0.1.45-macos.zip" sparkle:edSignature="rERXDiCxF31h/3yrheYWeMNMpPqYnasI/NwNqgWvmvK1NqsFQURvNcxJhhDGzd2ZHL/zOuCo2+7o5pg2f1lCAg==" sparkle:os="macos" length="86610714" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.44</title>
             <sparkle:version>0.1.44</sparkle:version>
             <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
