@@ -5,6 +5,23 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.47</title>
+            <sparkle:version>0.1.47</sparkle:version>
+            <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Assert Variable: Compare variable to any variable<br>
+• Disconnect device button on the editor<br>
+• Added scroll icons to scroll steps<br>
+<br>
+<b>Improvement:</b><br>
+• Device disconnection improvements<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 28 Aug 2025 13:58:15 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.47/FinalRun-0.1.47-macos.zip" sparkle:edSignature="sSCYle9mEBvc0lCUMeUoPhn8YdWfW1CSM2nUq1iVQkhYtNMf4i5tZ582SBswN5/fAnXNch1/fag4fMhb2m/NCQ==" sparkle:os="macos" length="86620139" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.46</title>
             <sparkle:version>0.1.46</sparkle:version>
             <sparkle:shortVersionString>0.1.46</sparkle:shortVersionString>
