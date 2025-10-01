@@ -5,6 +5,20 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.51</title>
+            <sparkle:version>0.1.51</sparkle:version>
+            <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Support for Case-insensitive assertion operators (equals ignore case, not equals ignore case)<br>
+<br>
+<b>Improvement:</b><br>
+• More robust device connections. Removing the black screen state<br>]]>
+            </description>
+            <pubDate>Wed, 01 Oct 2025 11:18:49 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.51/FinalRun-0.1.51-macos.zip" sparkle:edSignature="AdiMzZ1vWMQ+q7SbdcNxCY3bjeKpiUn4RYDdhoFCj1UIEZQuWs9LFp7X0qPvx59wxcEZvWWuDXlcfAEZ/oUMDQ==" sparkle:os="macos" length="86774961" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.50</title>
             <sparkle:version>0.1.50</sparkle:version>
             <sparkle:shortVersionString>0.1.50</sparkle:shortVersionString>
