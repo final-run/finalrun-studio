@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.52</title>
+            <sparkle:version>0.1.52</sparkle:version>
+            <sparkle:shortVersionString>0.1.52</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• JS support for M1<br>
+<br>]]>
+            </description>
+            <pubDate>Wed, 15 Oct 2025 12:59:41 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.52/FinalRun-0.1.52-macos.zip" sparkle:edSignature="D9ksgwPJTscGFLYeNYGfymzZ09ijVhKpo1ySmFUcbUlaOp6GHnvXW3fjHSsNeco+/7foaVa4NCpKLt4rI+poCA==" sparkle:os="macos" length="86784250" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.51</title>
             <sparkle:version>0.1.51</sparkle:version>
             <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
