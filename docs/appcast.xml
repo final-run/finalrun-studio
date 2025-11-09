@@ -5,9 +5,9 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.53</title>
-            <sparkle:version>0.1.53</sparkle:version>
-            <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
+            <title>Version 0.1.54</title>
+            <sparkle:version>0.1.54</sparkle:version>
+            <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
             <description>
                 <![CDATA[<b>Feature: Major Update</b><br>
 • Multiple Scenario support with Dataset on TestSuite<br>
@@ -16,8 +16,8 @@
 • Better messaging on Errors states <br>
 <br>]]>
             </description>
-            <pubDate>Sun, 09 Nov 2025 22:19:30 +0000</pubDate>
-            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.53/FinalRun-0.1.53-macos.zip" sparkle:edSignature="kXlQKyWiGe1Ga5AmalQ+yHDt1k9vn5y76V0O3Pmytkvq9QoQVBXF9L8DhxmIezek/e4knqCVtmyarXZgz68jCg==" sparkle:os="macos" length="87283714" type="application/octet-stream"/>
+            <pubDate>Sun, 09 Nov 2025 22:38:23 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.54/FinalRun-0.1.54-macos.zip" sparkle:edSignature="7bccMh0gZ+CD4Hfij5vUENvhNeeg/GVul4YwVt4nqKZpLNmrmTvNDlsn1DtNHoiv/Y9BTOV7zLBxm5HKszM+AA==" sparkle:os="macos" length="87283600" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 0.1.52</title>
