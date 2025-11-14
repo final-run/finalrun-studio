@@ -5,6 +5,21 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.55</title>
+            <sparkle:version>0.1.55</sparkle:version>
+            <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Datetime with Hours, Minutes and Seconds support for App Upload <br>
+• Recording default is turned off <br>
+• Stop app is enabled before Launch app <br>
+• Added support to add test step without executing test step <br>
+<br>]]>
+            </description>
+            <pubDate>Fri, 14 Nov 2025 13:03:03 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.55/FinalRun-0.1.55-macos.zip" sparkle:edSignature="FcyLHKj5PKw+mzMiVG7hlN8FI3zDx68IYCYriurjsGwadDgx32+B4i+vBoZPr/bci9GjtZJywIMUj0eY7jmRDQ==" sparkle:os="macos" length="87288660" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.54</title>
             <sparkle:version>0.1.54</sparkle:version>
             <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
