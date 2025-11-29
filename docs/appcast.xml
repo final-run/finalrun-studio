@@ -5,6 +5,27 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.56</title>
+            <sparkle:version>0.1.56</sparkle:version>
+            <sparkle:shortVersionString>0.1.56</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature: Major Update</b><br>
+• AI request monitoring in user profile<br>
+• Automatic session refresh to fix abrupt logouts<br>
+<br>
+<b>Improvements:</b><br>
+• Enhanced dataset and variable management<br>
+• Improved test step creation and editing<br>
+<br>
+<b>Fixes:</b><br>
+• Test run status accuracy for aborted scenarios<br>
+• Module creation with duplicate content<br>
+<br>]]>
+            </description>
+            <pubDate>Sat, 29 Nov 2025 19:43:11 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.56/FinalRun-0.1.56-macos.zip" sparkle:edSignature="TynhWzwE9O+lYmUUJ02reA+TiPtXSqVAurKjSdcWhljF56yWDOzBmDTe3/nO4DyZ9tmx1PcSiEdQbO+BZgP3Dw==" sparkle:os="macos" length="87319904" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.55</title>
             <sparkle:version>0.1.55</sparkle:version>
             <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
