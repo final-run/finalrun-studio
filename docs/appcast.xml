@@ -5,6 +5,27 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.58</title>
+            <sparkle:version>0.1.58</sparkle:version>
+            <sparkle:shortVersionString>0.1.58</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature: Major Update</b><br>
+• Agentic Test run support by just describing the flow <br>
+• AI Usage new UI<br>
+• Setup and Teardown support in TestSuite<br>
+• App Knowledge support<br>
+<br>
+<b>Improvements:</b><br>
+• Improved state handling for test runs<br>
+<br>
+<b>Fixes:</b><br>
+• Test run status accuracy for aborted scenarios<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 18 Dec 2025 14:43:39 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.58/FinalRun-0.1.58-macos.zip" sparkle:edSignature="hKLLGrqv46Gw+pfbq5EAs2UD1dViGQSiGqpf94d1W0jxsUYA/KHgzJBa42miiCXBHXT2sIvO2WGefX8yMDVqDg==" sparkle:os="macos" length="87320503" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.57</title>
             <sparkle:version>0.1.57</sparkle:version>
             <sparkle:shortVersionString>0.1.57</sparkle:shortVersionString>
