@@ -5,6 +5,18 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.59</title>
+            <sparkle:version>0.1.59</sparkle:version>
+            <sparkle:shortVersionString>0.1.59</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Fixes:</b><br>
+• Minor scroll issue fix with AIGoal<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 18 Dec 2025 19:43:28 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.59/FinalRun-0.1.59-macos.zip" sparkle:edSignature="L41ZkYCmo/t4rtYr2tP1fgfj6riiJ9/H8ELFBGc0+MUZU85YFG++mzYp4NKB6leksQseE+63XVNnz0X/w0p4DA==" sparkle:os="macos" length="87319673" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.58</title>
             <sparkle:version>0.1.58</sparkle:version>
             <sparkle:shortVersionString>0.1.58</sparkle:shortVersionString>
