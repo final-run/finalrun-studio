@@ -5,6 +5,26 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.61</title>
+            <sparkle:version>0.1.61</sparkle:version>
+            <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Features:</b><br>
+• New UI for Billing Info<br>
+• Run individual Test directly on Cloud<br>
+• Grouping of Android and ios apps<br>
+• Run same flow on Android and ios devices<br>
+• On Demand cloud devices support<br>
+<br>
+<b>Improvements:</b><br>
+• More robust cloud devices support<br>
+• Improved  UI for test runs<br>
+<br>]]>
+            </description>
+            <pubDate>Wed, 07 Jan 2026 21:03:34 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.61/FinalRun-0.1.61-macos.zip" sparkle:edSignature="nB2WjIqLF9oanR7WFf2/wW3zkvGQFF3rFPNLOk7bTEBeU4gTbKoEhwYhOEOaopoU39FG4+OxGWdsOY2xXdjcCQ==" sparkle:os="macos" length="92599300" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.60</title>
             <sparkle:version>0.1.60</sparkle:version>
             <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
