@@ -5,6 +5,19 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Improved speed and cost optimizations in running test <br>
+• Allow querying system apps like Chrome <br>
+<br>]]>
+            </description>
+            <pubDate>Tue, 27 Jan 2026 11:48:24 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v1.0.1/FinalRun-1.0.1-macos.zip" sparkle:edSignature="i4HscbXc5v757qN9NRjmEtcoretMhzZ9p6Q30Rv3f9mi7Dj7HCZfZjUtGKfyddSwi3SCb53b0iOzYIAc/dBTAw==" sparkle:os="macos" length="92960551" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
