@@ -5,6 +5,22 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Added max steps configurability for a test<br>
+• Screenshot Stability improvements<br>
+<br>
+<b>Fixes:</b><br>
+• App upload fixes on Studio Web <br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 12 Feb 2026 12:46:50 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v1.0.3/FinalRun-1.0.3-macos.zip" sparkle:edSignature="uR6D27wrBxsN+8xb9eX1iZIgKwt199NLwI28Y46/ymowh66qHinhWvbNlC4eYqKb1s+Gj5dZh4c/dcFeC8j6DQ==" sparkle:os="macos" length="92973208" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
