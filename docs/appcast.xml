@@ -5,6 +5,20 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>1.0.5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Added Web App support. Run test on Chrome and Safari <br>
+• Added MCP support. Create and maintain test directly from your favourite AI Editor like Cursor/Claude <br>
+• Added Finalrun Skills support<br>
+<br>]]>
+            </description>
+            <pubDate>Wed, 25 Feb 2026 16:07:51 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v1.0.5/FinalRun-1.0.5-macos.zip" sparkle:edSignature="CQAS0itXUrQdjm6w9aZ/RFBk9f2mDUeC6K4pHzZEIpp+y9WzuNSUNtVOzdNNV/5uA2PqBLk80ofKP+lDyAq5DA==" sparkle:os="macos" length="92995795" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>1.0.4</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
