@@ -5,6 +5,20 @@
         <description>Most recent updates to Finalrun Studio</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.6</title>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Dataset Scenario data not showing fix <br>
+• Added functionality to tap multiple times in a single action <br>
+• Added functionality to scroll only in the visible area <br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 05 Mar 2026 21:14:47 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v1.0.6/FinalRun-1.0.6-macos.zip" sparkle:edSignature="1cTYNGzh25vLEYDSbkERBotjJQ6UMr1d6ygenlilxilR/4/9MLbBWmmcxkzjz2QKjJd+ML3/ckRu8BhQSy88BQ==" sparkle:os="macos" length="93000086" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.5</title>
             <sparkle:version>1.0.5</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
